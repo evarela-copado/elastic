@@ -341,7 +341,7 @@
         <fullName>Test_Field__c</fullName>
         <defaultValue>false</defaultValue>
         <externalId>false</externalId>
-        <label>Test Field</label>
+        <label>Oh My God</label>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Checkbox</type>
     </fields>
