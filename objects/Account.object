@@ -242,6 +242,14 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>Are_You_Drunk__c</fullName>
+        <externalId>false</externalId>
+        <formula>CONTAINS(LOWER(Name), &quot;drunk&quot;)</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <label>Are You Drunk?</label>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>BillingAddress</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
