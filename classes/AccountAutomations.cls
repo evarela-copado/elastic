@@ -6,10 +6,10 @@ public class AccountAutomations {
             return a;
         }
     }
-
+    
+    // slash slash
 
 // This is a really urgent HOTFIX - All is broken and this fixes it
-
     public static Account setDefaultBillingAddress(Account a){
         a.billingstreet = 'Basauri, 6'; 
         a.billingstate = 'Madrid'; 
